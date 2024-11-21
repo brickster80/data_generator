@@ -1,0 +1,10 @@
+streamlit
+databricks-sql-connector
+langchain-community
+langchain
+databricks-sdk
+pandas
+mlflow
+faker
+numpy
+databricks-connect
